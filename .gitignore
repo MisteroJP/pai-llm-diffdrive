@@ -1,0 +1,8 @@
+build/
+install/
+log/
+logs/
+.env
+*.tar
+__pycache__/
+*.pyc
